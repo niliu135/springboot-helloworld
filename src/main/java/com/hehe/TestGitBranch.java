@@ -10,4 +10,9 @@ package com.hehe;
  * this is test add branch
  */
 public class TestGitBranch {
+
+   public void  test(){
+       System.out.println("hello new branch !");
+    }
+
 }
